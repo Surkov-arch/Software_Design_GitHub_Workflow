@@ -2,7 +2,7 @@
 
 | Name | Role |
 | :---- | :---- |
-| Bolina, Christian Lheinard T. | Leader |
+|  | Leader |
 |  | Frontend Developer |
 |  | Backend Developer |
 |  | Documentation/Tester |
