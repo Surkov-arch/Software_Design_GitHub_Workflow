@@ -4,6 +4,6 @@
 | :---- | :---- |
 | Bolina, Christian Lheinard T. | Leader |
 |  | Frontend Developer |
-|  | Backend Developer |
+| Estrella,Jenz Adam Q. | Backend Developer |
 |  | Documentation/Tester |
 
