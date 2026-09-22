@@ -3,7 +3,7 @@
 | Name | Role |
 | :---- | :---- |
 | Bolina, Christian Lheinard T. | Leader |
-|  | Frontend Developer |
-|  | Backend Developer |
-|  | Documentation/Tester |
+| Chang, Lawrenzen Dwane B. | Frontend Developer |
+| Estrella, Jenz Adam Q. | Backend Developer |
+| Laxamana, Ronald L. | Documentation/Tester |
 
