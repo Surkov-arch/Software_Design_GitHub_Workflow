@@ -4,6 +4,6 @@
 | :---- | :---- |
 | Bolina, Christian Lheinard T. | Leader |
 |  | Frontend Developer |
-|  | Backend Developer |
+| Chang, Lawrenzen Dwane B. | Backend Developer |
 |  | Documentation/Tester |
 
